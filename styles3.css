@@ -1,0 +1,15 @@
+.sobre {
+    background: url('img/mu\ vote.png') no-repeat center center/cover;
+    color: #3c0af0;
+    text-align: center;
+    padding: 30% 30px;
+}
+.button {
+  border-radius: 20px;
+  color: rgb(40, 153, 83);
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration-color: rgb(202, 9, 9);
+  display: inline-block;
+  font-size: 16px;
+}
